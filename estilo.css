@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+
+.flexcontainer{
+    background-color: rgb(153, 92, 92);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.e1{
+background-color: rgb(255, 116, 91);
+width: 200px;
+height: 200px;
+    ;
+}
+
+.e2{
+    background-color: rgb(179, 237, 177);
+width: 200px;
+height: 200px;
+;
+}
